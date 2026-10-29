@@ -11,7 +11,7 @@ public class DatabaseConnection {
         try {
             String url = "jdbc:mysql://localhost:3306/BANK";
             String user = "root";
-            String pass = "Dupajestmokra12!";
+            String pass = "HIdden1234";
 
             con = DriverManager.getConnection(url, user, pass);
         }
